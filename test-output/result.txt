@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Ông Vũ Đình Liệu đã đề nghị ai làm Tổng bí thư trong thư gửi Bộ Chính trị vào ngày 15-11-1995 và lý do gì được nêu ra?",
+        "Những ý kiến nào được ông Trần Lâm đưa ra trong thư gửi Bộ Chính trị liên quan đến vai trò của thủ tướng Võ Văn Kiệt?",
+        "Tại sao ông Hà Sĩ Phu bị công an đưa về đồn vào ngày 5-12-1995 và tài liệu nào đã bị phát hiện trong túi xách của ông?",
+        "Kết quả của cuộc lấy phiếu tín nhiệm lãnh đạo chủ chốt cho thấy điều gì về uy tín của Đỗ Mười và Võ Văn Kiệt?",
+        "Hội nghị 11 diễn ra vào thời điểm nào và có quyết định gì liên quan đến các uỷ viên Bộ Chính trị trên bảy mươi tuổi?"
+    ]
+}
