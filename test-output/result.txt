@@ -1,9 +1,8 @@
 {
     "questions": [
-        "Ông Vũ Đình Liệu đã đề nghị ai làm Tổng bí thư trong thư gửi Bộ Chính trị vào ngày 15-11-1995 và lý do gì được nêu ra?",
-        "Những ý kiến nào được ông Trần Lâm đưa ra trong thư gửi Bộ Chính trị liên quan đến vai trò của thủ tướng Võ Văn Kiệt?",
-        "Tại sao ông Hà Sĩ Phu bị công an đưa về đồn vào ngày 5-12-1995 và tài liệu nào đã bị phát hiện trong túi xách của ông?",
-        "Kết quả của cuộc lấy phiếu tín nhiệm lãnh đạo chủ chốt cho thấy điều gì về uy tín của Đỗ Mười và Võ Văn Kiệt?",
-        "Hội nghị 11 diễn ra vào thời điểm nào và có quyết định gì liên quan đến các uỷ viên Bộ Chính trị trên bảy mươi tuổi?"
+        "Chuyện gì đã xảy ra vào giai đoạn đầu thập niên 1990, trong bối cảnh người dân Việt Nam vẫn tiếp tục vượt biên trong khi bắt đầu đã có những người vượt biên trước đó trở về thăm nhà?"
+    ],
+    "answers": [
+        "Vào đầu thập niên 1990, Việt Nam chứng kiến một làn sóng vượt biên mới khi người dân, đặc biệt là từ các địa phương phía Bắc, vẫn tiếp tục tìm cách ra đi. Sự phong lưu của Việt Kiều, những người đã định cư ở nước ngoài và được trọng vọng bởi chính quyền và xã hội, đã kích thích thêm quyết tâm ra đi của nhiều người. Trong bối cảnh chính sách đổi mới chưa đủ thời gian để tạo ra sự ổn định, Liên Hiệp Quốc đã đưa ra chương trình \"tự nguyện hồi hương\", khuyến khích những thuyền nhân đồng ý quay trở lại Việt Nam bằng cách cung cấp trợ cấp 360 USD cho mỗi người. Điều này đã tạo ra một động lực mới cho những người vượt biên, vì họ có thể nhận được một khoản tiền không nhỏ khi hồi hương. Theo thống kê của UNHCR, hàng trăm ngàn người Việt đã định cư tại nhiều quốc gia trên thế giới, trong đó Mỹ là nơi đón nhận đông đảo nhất với 424.590 người. Thực tế này cho thấy, mặc dù có những người đã trở về, nhưng tâm lý ra đi vẫn còn mạnh mẽ trong xã hội Việt Nam, phản ánh những biến động chính trị và kinh tế của thời kỳ đó."
     ]
 }
