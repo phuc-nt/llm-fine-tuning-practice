@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Chuyện gì đã xảy ra vào giai đoạn đầu thập niên 1990, trong bối cảnh người dân Việt Nam vẫn tiếp tục vượt biên trong khi bắt đầu đã có những người vượt biên trước đó trở về thăm nhà?"
+        "Vị sa-môn Gotama đã nói gì về sự có mặt của con người và các nhân duyên?",
+        "Tại sao Bụt lại cho rằng ý niệm về cái ta thường tại là một sai lầm?",
+        "Bụt đã nói gì về thuyết hư vô và tại sao nó lại được coi là một tà kiến?",
+        "Nếu không có ngã và atman, thì ý nghĩa của việc tu hành là gì?",
+        "Bụt đã khuyên tôn giả Kassapa như thế nào khi hỏi về việc giải thoát?"
     ],
     "answers": [
-        "Vào đầu thập niên 1990, Việt Nam chứng kiến một làn sóng vượt biên mới khi người dân, đặc biệt là từ các địa phương phía Bắc, vẫn tiếp tục tìm cách ra đi. Sự phong lưu của Việt Kiều, những người đã định cư ở nước ngoài và được trọng vọng bởi chính quyền và xã hội, đã kích thích thêm quyết tâm ra đi của nhiều người. Trong bối cảnh chính sách đổi mới chưa đủ thời gian để tạo ra sự ổn định, Liên Hiệp Quốc đã đưa ra chương trình \"tự nguyện hồi hương\", khuyến khích những thuyền nhân đồng ý quay trở lại Việt Nam bằng cách cung cấp trợ cấp 360 USD cho mỗi người. Điều này đã tạo ra một động lực mới cho những người vượt biên, vì họ có thể nhận được một khoản tiền không nhỏ khi hồi hương. Theo thống kê của UNHCR, hàng trăm ngàn người Việt đã định cư tại nhiều quốc gia trên thế giới, trong đó Mỹ là nơi đón nhận đông đảo nhất với 424.590 người. Thực tế này cho thấy, mặc dù có những người đã trở về, nhưng tâm lý ra đi vẫn còn mạnh mẽ trong xã hội Việt Nam, phản ánh những biến động chính trị và kinh tế của thời kỳ đó."
+        "Vị sa-môn Gotama đã nói rằng sự có mặt của con người là do sự tập họp của nhiều yếu tố nhân duyên. Cũng như chiếc lá, con người cũng xuất hiện nhờ vào sự tương tác và kết hợp của các yếu tố, và khi các nhân duyên tan rã, con người sẽ không còn hiện hữu trong hình thức như trước.",
+        "Bụt cho rằng ý niệm về cái ta thường tại là một sai lầm căn bản, đã làm lạc lối biết bao nhiêu thế hệ. Chúng ta thường nghĩ rằng khi thân xác tan rã, cái ngã vẫn còn tồn tại, nhưng thực chất, vạn pháp đều từ nhân duyên mà sinh ra và diệt đi, không có một cái gì đồng nhất và bất biến.",
+        "Bụt đã khẳng định rằng ý niệm về hư vô cũng là một loại tà kiến. Hư vô không có nghĩa là những hiện tượng như nước hồ, lá sen, hay hoa sen không tồn tại. Tất cả đều là những hiện tượng do nhân duyên phối hợp, và trong bản chất của chúng không có một thực thể bất biến nào.",
+        "Nếu không có ngã và atman, việc tu hành vẫn có ý nghĩa vì nó không phải để tìm kiếm một cái tôi thường tại mà là để nhận ra và vượt qua khổ đau. Giải thoát không phải là cho một cái ngã mà là sự giải thoát khỏi những khổ đau và nhận thức sai lầm về bản thân.",
+        "Bụt đã khuyên tôn giả Kassapa hãy tự tìm lấy câu trả lời cho những câu hỏi của mình. Việc tự tìm kiếm sự thật và hiểu biết là một phần quan trọng trong hành trình tu tập, và Bụt sẽ sẵn lòng tiếp tục cuộc đàm đạo trong tương lai."
     ]
 }
